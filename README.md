@@ -1,8 +1,4 @@
-diff --git a/README.md b/README.md
-index 97d696522b75685d06d6323d93f964622e220b5f..0983c359977453009b93ff4a6604d4387da681b8 100644
---- a/README.md
-+++ b/README.md
-@@ -1,21 +1,30 @@
+
  # SQL Interview Questions and Practice Queries
  
  This repository contains commonly used SQL queries for Data Analyst, Business Intelligence and Data Engineering interviews.
