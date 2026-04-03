@@ -16,6 +16,15 @@ I am creating this repository to keep SQL queries that are commonly used in real
 - Top N Queries
 - Duplicate Records
 
+## SQL Files
+- joins.sql
+- cte.sql
+- window_functions.sql
+- subqueries.sql
+- aggregations.sql
+- case_when.sql
+- date_functions.sql
+
 These SQL queries are useful for interview preparation and real-world data analysis scenarios.
 
 More queries will be added regularly.
