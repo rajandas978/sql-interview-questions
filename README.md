@@ -17,7 +17,7 @@
  - Top N Queries
  - Duplicate Records
  
-+## SQL Files
+## SQL Files
 - joins.sql
 - cte.sql
 - window_functions.sql
